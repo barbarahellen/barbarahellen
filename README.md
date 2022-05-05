@@ -1,4 +1,4 @@
-####  Hello, world! 👋
+###  Hello, world! 
 - 📂 I'm a Computer Science student at UFPB
 - 💻 I'm interested in Web Development
 - 😊 Pronouns: she/her
