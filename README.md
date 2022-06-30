@@ -1,12 +1,12 @@
 ###  Hello, world! 
-- 📂 I'm a Computer Science student at UFPB
-- 💻 I'm interested in Web Development
+- 💻 I'm a Computer Science student at UFPB
+- :books: Learning Web Development
 - 😊 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/barbarahellen">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=barbarahellen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarahellen&layout=compact&langs_count=7&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=barbarahellen&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height ="250"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarahellen&layout=compact&langs_count=7&theme=dark" height ="220"/>
 </div>
 
 <div>
