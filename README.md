@@ -1,12 +1,13 @@
-<div align="center">
-  <img src="./img/header-github1.png"/>
+<div align="left">
+  <img src="./img/header_github.png"/>  
 </div>
 
 **About me**
 - 💻 I'm a Computer Science student at UFPB
 - :books: Learning Web Development
 
-<div align="center">
+
+<div align="left">
   <a href="https://github.com/barbarahellen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbarahellen&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarahellen&layout=compact&langs_count=7&theme=rose_pine"/>
