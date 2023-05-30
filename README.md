@@ -1,20 +1,35 @@
-<div align="left">
-  <img src="./img/header_github.png"/>  
+## printf("hello!") 👋
+
+
+<img align="right" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+
+**About me:**
+
+  * My name is Bárbara, and I'm a computer science student at UFPB.
+  * I'm currently learning Web Development.
+  * Here on my github you'll find both some of my projects done at university and personal projects.
+  * These are the main technologies that I use:
+  
+<div style="display: inline_block">
+  
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<hr>
 </div>
 
-**About me**
-- 💻 I'm a Computer Science student at UFPB
-- :books: Learning Web Development
-
-
-<div align="left">
-  <a href="https://github.com/barbarahellen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbarahellen&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarahellen&layout=compact&langs_count=7&theme=rose_pine"/>
-</div>
-
+**How to contact me:**
 <div>
-  <a href ="mailto:barbarahellen993@gmail.com" target="_blank"><img height ="40" src="https://user-images.githubusercontent.com/91560661/211379531-9854e0f2-4eb1-452a-97bc-bdafa7bad948.svg"></a>
-  <a href ="https://www.linkedin.com/in/barbara-hellen" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/91560661/211379096-6f8d3287-0677-4fde-913e-3044fe5a5a5f.svg"></a>
-  <a href="https://instagram.com/barb.hellen" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/91560661/211379538-1aa602be-ed3c-4b69-827d-9bf41fdb0fde.svg"></a>
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:barbarahellen993@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbara-hellen" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/barb.hellen"/></a>
+</p>  
 </div>
