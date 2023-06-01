@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/barbara-hellen" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbara-hellen" /></a>
 
-  <a href="https://instagram.com/barb.hellen" alt="Instagram">
+  <a href="https://www.instagram.com/barb.hellen/?next=%2F" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/barb.hellen"/></a>
 </p>  
 </div>
