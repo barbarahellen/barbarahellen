@@ -1,7 +1,5 @@
 ## printf("hello!") 👋
 
-<img align="right" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
-
 My name is Bárbara, and I'm a computer science student at UFPB.<br>
 I'm currently learning Front-end Development.<br>
 <div>
