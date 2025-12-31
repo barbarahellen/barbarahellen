@@ -1,10 +1,19 @@
-<h2 align="left"> Hello, world! ✨ </h2>
-<br>
+---
 
-- 🎓 Computer Science student at UFPB (Universidade Federal da Paraíba)
-- 💻 I'm currently learning Front-end Development.<br>
+<h3>Estudante de Ciência da Computação • Desenvolvedora front-end • UX/UI designer</h3>
 
-<br>
+### 🌼 Tecnologias:
+
+- **Front-end e web:**  
+JavaScript, TypeScript, React, Next.js, Angular, HTML/CSS, Tailwind CSS, Bootstrap.
+
+- **Back-end e dados:**  
+Java, Spring, Python, SQL, MySQL.
+
+- **Outras ferramentas:**  
+Figma, Git, GitHub, Pandas, NumPy, Scikit-learn, NPM, Docker.
+
+--- 
 
 <p align="left"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,9 +24,10 @@
   </a>
 </p>
 
-<br>
+---
 
-<p align="left">
+### 🌼 Contato:
+<p>
   <a href="https://www.linkedin.com/in/barbara-hellen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href="mailto:barbarahellen993gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p> 
