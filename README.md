@@ -1,6 +1,6 @@
 ---
 
-<h3>Estudante de Ciência da Computação • Desenvolvedora front-end • UX/UI designer</h3>
+<h3>Ciência da Computação • Desenvolvedora front-end • UX/UI designer</h3>
 
 ### 🌼 Tecnologias:
 
